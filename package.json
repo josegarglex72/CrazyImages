@@ -1,0 +1,22 @@
+{
+  "name": "crazyimages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josegarglex72/CrazyImages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josegarglex72/CrazyImages/issues"
+  },
+  "homepage": "https://github.com/josegarglex72/CrazyImages#readme",
+  "dependencies": {
+    "electron": "^6.0.6"
+  }
+}
